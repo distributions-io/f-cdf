@@ -11,7 +11,7 @@ The [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_
 	<br>
 </div>
 
-where `d1` is the numerator degrees of freedom, `d2` is the denominator degrees of freedom and `I_{x}(a,b)` is the lower regularized incomplete beta function.
+where `d1` is the numerator degrees of freedom, `d2` is the denominator degrees of freedom and `I_{x}(a,b)` is the [lower regularized incomplete beta function](https://github.com/compute-io/betainc).
 
 ## Installation
 
