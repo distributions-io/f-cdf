@@ -1,8 +1,8 @@
 options( digits = 16 )
 library( jsonlite )
 
-d1 = 1
-d2 = 1
+d1 = 2
+d2 = 3
 x = c( -5, -2.5, 0, 2.5, 5 )
 y = pf( x, d1, d2 )
 
